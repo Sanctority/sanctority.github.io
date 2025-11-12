@@ -1,5 +1,4 @@
-
-Test Privacy Policy for Cat-ch
+Privacy Policy for Cat-ch
 
 Last updated: November 12, 2025
 
