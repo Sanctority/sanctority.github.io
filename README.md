@@ -4,7 +4,7 @@ Last updated: November 12, 2025
 
 Cat-ch (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices. By using the Cat-ch mobile application (“the App”), you agree to the collection and use of information in accordance with this Policy.
 
-1. Definitions
+• Definitions
 
 Application: Cat-ch, the mobile software provided by the Company.
 
@@ -18,7 +18,7 @@ Service Provider: Third-party companies that help deliver advertising, analytics
 
 Usage Data: Information collected automatically when using the App (IP address, device identifiers, crash data, etc.).
 
-2. Data We Collect Automatically
+• Data We Collect Automatically
 
 When you use Cat-ch, the App and its advertising or analytics SDKs may collect:
 
@@ -32,7 +32,7 @@ Approximate location (derived from IP address)
 
 All data is transmitted securely using industry-standard encryption in transit (HTTPS).
 
-3. How We Use the Data
+• How We Use the Data
 
 We use collected data to:
 
@@ -46,7 +46,7 @@ Perform aggregate analytics
 
 We do not sell personal data or create profiles unrelated to the app’s advertising.
 
-4. Sharing of Data
+• Sharing of Data
 
 We may share the categories listed above with:
 
@@ -59,11 +59,12 @@ Authorities when required by law
 Partner policy:
 https://developers.is.com/ironsource-mobile/general/ironsource-platform-privacy-policy/
 
-5. Data Retention
+• Data Retention
 
-Data is kept only as long as needed for the purposes above. Advertising partners define their own retention periods.
+Data is kept only as long as needed for the purposes above.
+Advertising partners define their own retention periods.
 
-6. Your Choices
+• Your Choices
 
 Reset/limit ad personalization (Android):
 Go to Settings → Privacy → Ads
@@ -77,28 +78,28 @@ Email Stickyjamsoftware@gmail.com
 
 Because the App does not use user accounts, we may not be able to identify individual users.
 
-7. Children’s Privacy
+• Children’s Privacy
 
 Cat-ch is not directed to children under 13.
 We do not knowingly collect data from children.
 If you believe a child provided data, contact us so we can delete it.
 
-8. International Transfers
+• International Transfers
 
 Our partners may process data on servers outside your country.
 We take reasonable steps to ensure appropriate safeguards.
 
-9. Security
+• Security
 
 We use commercially reasonable measures to protect data.
 No method is 100% secure, but we maintain appropriate safeguards.
 
-10. Changes to This Policy
+• Changes to This Policy
 
 This Privacy Policy may be updated from time to time.
 The latest version will always reflect the “Last updated” date above.
 
-11. Contact Us
+• Contact Us
 
 If you have questions about this Privacy Policy, contact:
 📧 Stickyjamsoftware@gmail.com
